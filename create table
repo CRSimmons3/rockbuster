@@ -1,0 +1,9 @@
+CREATE TABLE employees
+ (
+employee_id integer NOT NULL,
+name VARCHAR(50),
+contact_number VARCHAR(30),
+designation_id integer,
+last_update timestamp NOT NULL DEFAULT now(),
+CONSTRAINT employee_pkey PRIMARY KEY (employee_id)
+)
