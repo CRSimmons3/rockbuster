@@ -1,4 +1,13 @@
-# rockbuster
-### Using SQL to query a database of films and video rental data in order to answer business questions
+## Objective
+Rockbuster Stealth is a movie rental company that used to have stores around the world.  Facing stiff competition from streaming services, the management team planned to use its existing movie licences to launch an online video rental service in order to stay competitive.
 
-Sample visualisation from final presentation: https://public.tableau.com/app/profile/catherine.simmons1492/viz/3_10RockbusterStealth_17386990634800/Story1
+The objective of the project was to provide insights to inform the launch strategy for the new online video service.
+
+## Tools
+SQL was used to query the database.
+
+## Files
+Files uploaded here include:
+
+- the SQL scripts used
+- the final presentation to the management team
