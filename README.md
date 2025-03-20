@@ -4,7 +4,12 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 The objective of the project was to provide insights to inform the launch strategy for the new online video service.
 
 ## Tools
-SQL was used to query the database.
+SQL was used to query the database. These elements of SQL were used, amongst others:
+- grouping
+- ordering
+- joins
+- subqueries
+- common table expressions
 
 ## Files
 Files uploaded here include:
